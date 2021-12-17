@@ -1,0 +1,16 @@
+{
+  "name": "water-management",
+  "version": "1.0.0",
+  "description": "water management",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "mocha"
+  },
+  "author": "Venkatesh Devulapelly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^9.1.3"
+  }
+}
